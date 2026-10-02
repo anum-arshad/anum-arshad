@@ -1,4 +1,17 @@
-## Hi there 👋
+# Anum Arshad
+
+## About Me
+
+I am a Software Engineering student...
+
+## Skills
+
+- C#
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
 
 <!--
 **anum-arshad/anum-arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
